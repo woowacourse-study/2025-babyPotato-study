@@ -11,6 +11,8 @@
   - 인터뷰 순서는 [핀볼](https://lazygyu.github.io/roulette/)을 이용해서 정한다
   - 각각 15분씩 진행되고, 10분은 질문시간 + 5분은 피드백 작성시간
   - [알감자 인터뷰 시트](https://docs.google.com/spreadsheets/d/1p1Lc3y9uuVwTD1XQ3kLpBCiUfVt9qtz0Rdv3FxXaBDc/edit?usp=sharing)에 피드백을 작성한다
+ 
+*스터디 공부 내용 및 인터뷰 과정은 [Discussions](https://github.com/woowacourse-study/2025-babyPotato-study/discussions)에서 확인하실 수 있습니다!
 
 ## 스터디원
 | <img src="https://github.com/donghyun81.png" width="125"/> | <img src="https://github.com/rosemin928.png" width="125"/> | <img src="https://github.com/Leeyerin0210.png" width="125"/> | <img src="https://github.com/gahyunkim.png" width="125"/> |
