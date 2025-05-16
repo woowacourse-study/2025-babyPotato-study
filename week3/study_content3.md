@@ -1,4 +1,4 @@
-## 알감자 스터디 2주차 공부 내용
+## 알감자 스터디 3주차 공부 내용
 - [알감자 스터디 3주차 Quiz 정리1](https://github.com/woowacourse-study/2025-babyPotato-study/discussions/9)
 - [알감자 스터디 3주차 Quiz 정리2](https://github.com/woowacourse-study/2025-babyPotato-study/discussions/14)
 
